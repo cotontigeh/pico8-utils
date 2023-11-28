@@ -1,4 +1,5 @@
 -- DEBUG
+-- v1.0.0
 
 function init_debug()
   debug={}
